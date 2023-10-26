@@ -8,19 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-**Biography.**
-
+**Biography**
 I am a fourth-year Ph.D. candidate in Computer Science at Peking University under the mentorship of Professor Bin Cui.
 
 
-**Research Interests.**
-
+**Research Interests**
 My research is primarily contered around the application of Ai techniques in DBMS. My research interests include:
 
 - Intelligent Database System
 - Big Data Management
 - Hyper-Parameter Optimization
 
-**Email.**
-
+**Email**
 z.chang@pku.edu.cn
